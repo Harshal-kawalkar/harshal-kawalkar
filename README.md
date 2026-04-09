@@ -1,6 +1,6 @@
 # Hi, I'm Harshal 👋
 
-I'm a **React.js Frontend Developer** passionate about building **clean, responsive, and user-friendly web interfaces**.  
+I'm a **Full stack Developer** passionate about building **clean, responsive, and user-friendly web interfaces**.  
 I help clients turn their ideas into functional and attractive websites. 💻✨
 
 ---
